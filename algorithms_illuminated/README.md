@@ -1,0 +1,1 @@
+# This folder contains programming exercises from the book Algorithms Illuminated. It's for self study purpose only.
