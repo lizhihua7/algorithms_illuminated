@@ -1,1 +1,0 @@
-This folder contains lab assignments from the Coursera course "Applied Text Mining in Python". It's for self study purpose only.
