@@ -1,1 +1,1 @@
-# This repo contains programming exercises from the book Algorithms Illuminated. It's for self study purpose only.
+# This repo contains programming exercises of data structures and algorithms. It's for self study purpose only.
