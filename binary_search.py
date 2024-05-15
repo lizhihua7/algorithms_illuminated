@@ -1,4 +1,4 @@
-# running time: log2 n
+# run time: log2 n
 
 def binary_search_0(lst, target):
     step_num = 0
